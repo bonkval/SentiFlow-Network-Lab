@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Runtime data and captures
+data/
+*.db
+*.db-shm
+*.db-wal
+*.pcap
+*.pcapng
+*.parquet
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
