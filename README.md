@@ -2,6 +2,13 @@
 
 SentiFlow is a local, Windows-friendly network threat monitor built for transparent, portfolio-ready security testing. It provides a live SOC-style dashboard, a normalized event pipeline, SQLite persistence, deterministic attack simulations, explainable detections, and optional TShark/Npcap capture or PCAP ingestion.
 
+## Screenshots
+<img width="1850" height="1004" alt="image" src="https://github.com/user-attachments/assets/1f1940ae-9d6a-48f9-ac9a-fb4442873377" />
+<img width="1845" height="997" alt="image" src="https://github.com/user-attachments/assets/ec3eedf7-d249-42f1-8dc8-b3f8fb32dcb4" />
+<img width="1854" height="1001" alt="image" src="https://github.com/user-attachments/assets/462256a0-523e-4f00-a4fc-7eb8037f54ba" />
+<img width="1869" height="1005" alt="image" src="https://github.com/user-attachments/assets/1b474159-b27b-40a7-bf13-8a7da4b1cfb5" />
+
+
 ## Features
 
 - Editable Traffic Lab with eight labeled benign and malicious scenarios
